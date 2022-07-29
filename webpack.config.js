@@ -6,6 +6,7 @@ module.exports = (webpackConfigEnv) => {
     orgName: "react-mf",
     projectName: "navbar",
     webpackConfigEnv,
+    disabled: false
   });
 
   return merge(defaultConfig, {

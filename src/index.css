@@ -1,0 +1,30 @@
+.nav {
+  position: fixed;
+  width: 100%;
+  top: 0px;
+  z-index: 100;
+}
+
+#nav-container {
+  display: flex;
+  justify-content: space-between;
+  padding: 0.5rem 1rem;
+  background-color: blue;
+  color: #fff;
+  margin-bottom: 1rem;
+}
+
+#link-people {
+  margin-right: 1rem;
+}
+
+#external-link {
+  color: #fff;
+  font-size: 22px;
+  margin-left: 1rem;
+}
+
+.links {
+  color: #fff;
+  font-size: 22px;
+}
