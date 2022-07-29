@@ -6,6 +6,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "react-mf-navbar.js",
+  "homepage": "https://scherlock90.github.io/microfrontends-freamwork-navbar/",
   "scripts": {
     "lint": "eslint src",
     "start": "webpack serve",
